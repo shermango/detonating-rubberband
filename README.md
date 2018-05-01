@@ -1,0 +1,1 @@
+Exploring elasticsearch with a simple node express app to search for cities in the world
